@@ -1,0 +1,7 @@
+# Pi-hole Allowlist - Plex
+# Generated: 05/08/26 19:13:01 CST
+# Total domains: 2
+# Repository: https://github.com/Jason55904/PiHoleAllowed/
+
+Aconfig.claspws.tv
+plex.tv
