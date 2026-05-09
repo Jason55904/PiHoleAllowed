@@ -1,7 +1,7 @@
 # Pi-hole Allowlist - Plex
 # Generated: 05/08/26 19:13:01 CST
 # Total domains: 2
-# Repository: https://github.com/Jason55904/PiHoleAllowed/
+# https://raw.githubusercontent.com/Jason55904/PiHoleAllowed/refs/heads/main/Plex
 
 Aconfig.claspws.tv #Plex Casting
 plex.tv #plex
